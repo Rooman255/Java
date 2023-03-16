@@ -1,5 +1,5 @@
 // (Дополнительно) Реализовать алгоритм сортировки слиянием
-
+NOT DONE!!
 package DZ3;
 
 import java.io.IOException;
